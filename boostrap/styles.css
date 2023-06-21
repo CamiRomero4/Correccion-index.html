@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(207, 77, 240);
+    color: white;
+    text-align: center;
+}
+table tbody{
+    background-color: rgb(170, 148, 177);
+}
+table thead{
+   background-color: black;
+   color: white;
+   height: 50px;
+   
+}

@@ -8,7 +8,7 @@ margin: 0 auto;
 width: 85%;}
 
 legend{
-    border: solid 1x #ff7f50;
+    border: solid 1px #ff7f50;
     padding: 5px;
     font-weight: bold;
     background-color: #ffa07a;
@@ -29,7 +29,7 @@ margin: 10px;
 }
 
 .container {
-margin-top: 3.5;
+margin-top: 1.5;
 }
 
 .color{
